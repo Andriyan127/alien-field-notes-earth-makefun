@@ -2,6 +2,7 @@
 // make.fun competition entry — slug:
 // u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000
 // Writes the winning one-line alien tourist review of Earth to output/entry.txt
+// Revision note (2026-11-24): line final — 166 chars, verified.
 
 const fs = require("fs");
 const path = require("path");
